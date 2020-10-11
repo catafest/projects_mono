@@ -1,0 +1,5 @@
+/home/mythcat/projects_mono/classes_001/classes_001/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mythcat/projects_mono/classes_001/classes_001/bin/Debug/classes_001.exe.mdb
+/home/mythcat/projects_mono/classes_001/classes_001/bin/Debug/classes_001.exe
+/home/mythcat/projects_mono/classes_001/classes_001/obj/x86/Debug/classes_001.exe
+/home/mythcat/projects_mono/classes_001/classes_001/obj/x86/Debug/classes_001.exe.mdb
